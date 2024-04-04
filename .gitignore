@@ -1,0 +1,7 @@
+/target/
+/log/
+/.settings/
+/.idea/
+/devops
+/.git/
+/.DS_Store/
